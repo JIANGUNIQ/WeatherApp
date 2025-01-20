@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.8.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - RxSwift (6.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.8.0)
+  - Charts
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  Charts: 888b39ae772b3dc79d0a0e659f0419ff9bd3e963
+  RxSwift: 4e28be97cbcfeee614af26d83415febbf2bf6f45
+
+PODFILE CHECKSUM: 8363f7694a0e6a2864422d963329a2423e26bd98
+
+COCOAPODS: 1.13.0
